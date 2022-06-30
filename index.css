@@ -1,29 +1,30 @@
-body{
-    font-family: 'Roboto';
+body {
+    font-family: "Roboto";
     font-style: normal;
     background-color: #191765;
     min-width: 375px;
     max-width: 756px;
     margin: 20px;
 }
-nav{
+
+nav {
     /* display: flex; */
 
     width: 375px;
     height: 60px;
- 
-
-
 }
-nav svg{
+
+nav svg {
     float: right;
 }
-a{
+
+a {
     font-weight: 500;
     font-size: 18px;
     align-items: center;
 }
-h1{
+
+h1 {
     width: 327px;
     height: 55px;
     font-style: normal;
@@ -31,30 +32,32 @@ h1{
     font-size: 48px;
     text-align: center;
     letter-spacing: 0.37px;
-    color: #7D73FC;
+    color: #7d73fc;
 }
-h2{
+
+h2 {
     width: 327px;
     height: 87px;
     font-style: normal;
     font-weight: 500;
     font-size: 32px;
-    color: #EDECFF;
+    color: #edecff;
     text-align: center;
     padding-top: 40px;
 }
-.support p{
+
+.support p {
     width: 327px;
     height: 170px;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     text-align: center;
-    color: #C8C8D4;
+    color: #c8c8d4;
     border-bottom: 1px solid #646369;
-
 }
-.frame{
+
+.frame {
     display: flex;
     /* flex-direction: column; */
     align-items: flex-start;
@@ -63,34 +66,36 @@ h2{
     width: 303px;
     height: 462.15px;
     border-bottom: 1px solid #646369;
-
 }
-.skills{
+
+.skills {
     position: relative;
     margin-left: -260px;
     margin-top: 200px;
 }
-h4{
+
+h4 {
     width: 107px;
     height: 16px;
     font-size: 12px;
     font-weight: 500;
-    color: #9490FF;
+    color: #9490ff;
     letter-spacing: 0.03em;
     display: flex;
     align-items: center;
-
 }
-.frame p{
+
+.frame p {
     display: flex;
     align-items: center;
-    color: #F5F5FF;
+    color: #f5f5ff;
     font-weight: 400;
     font-size: 15px;
     width: 96.75px;
     height: 14.33px;
 }
-.social-media{
+
+.social-media {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -101,9 +106,9 @@ h4{
     flex: none;
     order: 2;
     flex-grow: 0;
-
 }
-.media-svg{
+
+.media-svg {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -113,25 +118,27 @@ h4{
     margin-top: 50px;
     margin-left: 40px;
 }
-.vertical{
+
+.vertical {
     position: absolute;
     margin-left: -6px;
     margin-top: 130px;
-
 }
-.fresh{
+
+.fresh {
     position: absolute;
     margin-top: 140px;
     margin-left: -6px;
 }
-.social-media p{
+
+.social-media p {
     position: absolute;
     margin-left: 120px;
     margin-top: 130px;
     width: 47px;
     height: 32px;
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-weight: 500;
     font-size: 20px;
-    color: #A2A3AE;
+    color: #a2a3ae;
 }
