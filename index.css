@@ -5,15 +5,11 @@ body {
     min-width: 375px;
     max-width: 756px;
     margin: 20px;
-}
-
+  }
 nav {
-    /* display: flex; */
-
     width: 375px;
     height: 60px;
 }
-
 nav svg {
     float: right;
 }
