@@ -141,3 +141,19 @@ li {
   height: 14.33px;
   margin-top: 12px;
 }
+
+.recent_work {
+  font-family: 'Roboto', sans-serif;
+  width: 327px;
+  height: 204px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  color: #9490FF;
+  margin-top: 90px;
+  border-bottom: 1px solid #646369;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
