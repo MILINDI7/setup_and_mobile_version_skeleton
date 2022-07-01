@@ -213,7 +213,7 @@ h3 {
   color: white;
 }
 
-#special-b {
+.special-b {
   display: flex;
   flex-direction: row;
   align-items: center;
