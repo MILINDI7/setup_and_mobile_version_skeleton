@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   background-color: #191765;
   min-width: 375px;
@@ -136,7 +136,7 @@ h4 {
   margin-top: 130px;
   width: 47px;
   height: 32px;
-  font-family: "Roboto";
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
   color: #a2a3ae;
