@@ -224,3 +224,55 @@ h3{
   background: #7D73FC;
   margin-top: 70px;
 }
+
+.holder1{
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  left: -20px;
+  top: 0;
+  filter: blur(5px);
+}
+
+.holder2{
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  left: 356px;
+  top: 495px;
+  filter: blur(-50px);
+}
+
+.holder3{
+  position: absolute;
+  width: 200.61px;
+  height: 482.57px;
+  left: 1.04px;
+  top: 1624.71px;
+  transform: rotate(-5.38deg);
+}
+
+.holder4{
+  position: absolute;
+  width: 180.28px;
+  height: 270.6px;
+  left: 250.27px;
+  top: 2450.23px;
+  transform: rotate(1.40deg);
+}
+
+.holder5{
+  position: absolute;
+  width: 308px;
+  height: 200px;
+  left: -93px;
+  top: 3300px;
+}
+
+.holder6{
+  position: absolute;
+  width: 191.29px;
+  height: 377.04px;
+  left: 240.22px;
+  top: 4050px;
+}
