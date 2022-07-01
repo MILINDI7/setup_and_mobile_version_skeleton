@@ -149,7 +149,7 @@ li {
   font-style: normal;
   font-weight: 500;
   font-size: 40px;
-  color: #9490FF;
+  color: #9490ff;
   margin-top: 90px;
   border-bottom: 1px solid #646369;
   display: flex;
@@ -157,14 +157,14 @@ li {
   text-decoration: none;
 }
 
-.place-holder1{
+.place-holder1 {
   margin-top: 60px;
   width: 327px;
   height: 236px;
-  color: #F9F9F9;
+  color: #f9f9f9;
 }
 
-h3{
+h3 {
   width: 327px;
   height: 105px;
   font-family: 'Roboto', sans-serif;
@@ -173,22 +173,22 @@ h3{
   font-size: 32px;
   display: flex;
   align-items: center;
-  color: #ffffff;
+  color: #fff;
 }
 
-.stories p{
+.stories p {
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
-  color: #DCDCE8;
+  color: #dcdce8;
 }
 
-.Tags{
+.Tags {
   margin-top: 50px;
 }
 
-.Tags li{
+.Tags li {
   display: inline;
   align-items: center;
   padding: 10px 12px;
@@ -200,7 +200,7 @@ h3{
   border-right: 1px solid#646369;
 }
 
-.Tags span{
+.Tags span {
   display: inline;
   align-items: center;
   padding: 10px 12px;
@@ -213,7 +213,7 @@ h3{
   color: white;
 }
 
-#special-b{
+#special-b {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -221,11 +221,11 @@ h3{
   gap: 10px;
   width: 89px;
   height: 48px;
-  background: #7D73FC;
+  background: #7d73Fc;
   margin-top: 70px;
 }
 
-.holder1{
+.holder1 {
   position: absolute;
   width: 160px;
   height: 160px;
@@ -234,7 +234,7 @@ h3{
   filter: blur(5px);
 }
 
-.holder2{
+.holder2 {
   position: absolute;
   width: 68px;
   height: 68px;
@@ -243,7 +243,7 @@ h3{
   filter: blur(-50px);
 }
 
-.holder3{
+.holder3 {
   position: absolute;
   width: 200.61px;
   height: 482.57px;
@@ -252,7 +252,7 @@ h3{
   transform: rotate(-5.38deg);
 }
 
-.holder4{
+.holder4 {
   position: absolute;
   width: 180.28px;
   height: 270.6px;
@@ -261,7 +261,7 @@ h3{
   transform: rotate(1.40deg);
 }
 
-.holder5{
+.holder5 {
   position: absolute;
   width: 308px;
   height: 200px;
@@ -269,7 +269,7 @@ h3{
   top: 3300px;
 }
 
-.holder6{
+.holder6 {
   position: absolute;
   width: 191.29px;
   height: 377.04px;
