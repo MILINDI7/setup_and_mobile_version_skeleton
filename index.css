@@ -189,7 +189,7 @@ h3{
 }
 
 .Tags li{
-  display: inline;
+  /* display: inline; */
   align-items: center;
   padding: 10px 12px;
   width: 49px;
