@@ -141,3 +141,7 @@ li {
   height: 14.33px;
   margin-top: 12px;
 }
+
+.tags ul {
+  display: flex;
+}
