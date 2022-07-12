@@ -352,3 +352,24 @@ h3{
   margin-top: 90px;
   margin-left: 110px;
 }
+
+.social-medias {
+  margin-top: 150px;
+  width: 327px;
+  height: 200px;
+  padding-top: 60px;
+  border-top: 1px solid #646369;
+
+}
+
+.foot{
+  display: flex;
+  align-items: center;
+  margin-left: 45px;
+  font-family: 'Roboto',sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: #ebebff;
+}
