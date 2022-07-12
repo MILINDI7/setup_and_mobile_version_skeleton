@@ -332,3 +332,23 @@ h3{
 #text{
   width: 327px;
 }
+
+#sub {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  background-color: #7d73fc;
+  align-items: center;
+  padding: 12px;
+  gap: 10px;
+  width: 89px;
+  height: 48px;
+  flex: none;
+  order: 2;
+}
+
+.sub-button {
+  color: white;
+  margin-top: 90px;
+  margin-left: 110px;
+}
